@@ -92,4 +92,4 @@ Heavy roleplay, aqui, não é apenas estilo de cena.
 
 Nossa comunidade, whitelist e todo o suporte acontecem no Discord. É por lá que você dá o primeiro passo dentro do California Roleplay.
 
-<a href="https://discord.gg/SEU-LINK-AQUI" class="button primary" data-icon="discord">Entrar no Discord</a>
+<a href="https://discord.gg/6bBVGcRVg6" class="button primary" data-icon="discord">Entrar no Discord</a>
