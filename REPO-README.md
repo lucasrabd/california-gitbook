@@ -12,13 +12,16 @@ california-gitbook-main/
 ├── SUMMARY.md                                    # Índice / árvore de navegação do GitBook
 ├── regras/
 │   ├── README.md                                  # Seção "Regras" (overview)
-│   └── regras-gerais.md                             # Regras gerais do servidor
+│   ├── regras-gerais.md                             # Regras gerais do servidor
+│   ├── regras-de-ck.md                              # Character Kill (morte permanente)
+│   └── regras-da-prisao.md                          # Regras do sistema prisional
 ├── legal-faction/
 │   ├── README.md                                  # Seção "Legal Faction" (overview)
 │   └── informacoes-legal-faction.md                 # Diretrizes de RP para facções legais (LSPD, etc.)
 ├── ilegal-faction/
 │   ├── README.md                                  # Seção "Ilegal Faction" (overview)
-│   └── informacoes-de-faccoes-ilegais.md             # Regras para criação/gestão de facções ilegais
+│   ├── informacoes-de-faccoes-ilegais.md             # Regras para criação/gestão de facções ilegais
+│   └── regras-de-engajamento-roe.md                  # Regras de engajamento entre facções (RoE)
 └── .gitbook/assets/                              # Imagens e covers usados nas páginas
 ```
 
@@ -29,9 +32,11 @@ california-gitbook-main/
 | Seção | Descrição |
 |---|---|
 | **Bem vindo(a)** | Lore, proposta e ambientação do servidor (Califórnia sobre o mapa do GTA V) |
-| **Regras** | Regras gerais de convivência e conduta da comunidade |
+| **Regras** | Regras gerais de convivência e conduta, CK (morte permanente) e regras do sistema prisional |
 | **Legal Faction** | Diretrizes de roleplay para instituições oficiais (polícia, órgãos públicos) — foco em procedimento, investigação e realismo |
-| **Ilegal Faction** | Regras para criação e gestão de facções ilegais (requisitos mínimos de membros, território, fornecedores, IFM) |
+| **Ilegal Faction** | Regras para criação e gestão de facções ilegais (requisitos mínimos de membros, território, IFM) e regras de engajamento (RoE) entre facções |
+
+> Baseado na estrutura de referência do GitBook do [HoodLife: Los Santos](https://hoodlife.gitbook.io/docs), adaptada ao contexto e nomenclatura do California Roleplay.
 
 A navegação completa entre as páginas é definida em [`SUMMARY.md`](SUMMARY.md).
 

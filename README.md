@@ -85,3 +85,11 @@ A proposta de universo exige coerência nas ações, respeito ao contexto e inte
 Heavy roleplay, aqui, não é apenas estilo de cena.
 
 É a base de toda a experiência do servidor.
+
+***
+
+#### Faça parte da comunidade
+
+Nossa comunidade, whitelist e todo o suporte acontecem no Discord. É por lá que você dá o primeiro passo dentro do California Roleplay.
+
+<a href="https://discord.gg/SEU-LINK-AQUI" class="button primary" data-icon="discord">Entrar no Discord</a>
